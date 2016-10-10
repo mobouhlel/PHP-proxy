@@ -26,7 +26,7 @@ defualt login is Username: `admin1` , Password : `asd123`
 * Remove client-side scripting
 * Allow cookies to be stored
 * Use base64 encodng on the address
-* Social media link control 
+* Social media links control 
 
 
 ## Screen shot 
