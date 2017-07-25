@@ -3,10 +3,10 @@ PHP proxy is simple [PHProxy](https://sourceforge.net/projects/poxy/) based with
 
 You use it to view webpages as sever IP address for privacy issue .  
 
-defualt login is Username: `admin1` , Password : `asd123`
+Defualt login is Username: `admin1` , Password : `asd123`
  
  
- I used `Referer` check to block CSRF attacks ,  PDO `prepare` statments to prevent SQLi attacks and  `htmlentities` to prevent XSS attacks .
+ I used `Referer` check to block CSRF attacks ,  PDO `prepare` statments to prevent SQLi attacks, and  `htmlentities` to prevent XSS attacks .
  
  
  And there was a XSS issue in `index.inc.php`
@@ -23,10 +23,10 @@ defualt login is Username: `admin1` , Password : `asd123`
 
 ## Features
 
-* Remove client-side scripting
-* Allow cookies to be stored
-* Use base64 encodng on the address
-* Social media links control 
+* Remove client-side scripting.
+* Allow cookies to be stored.
+* Use base64 encodng on the address.
+* Social media links control.
 
 
 ## Screen shot 
